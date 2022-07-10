@@ -4,12 +4,12 @@ The Banking System project is a java application that allows users to register a
 # Technologies:
 Java, JDBC, MySQL, Maven, JUnit, Log4J
 # Project work through
-JDBC
-This project working on eclipse.
+# JDBC and eclipse
+  This project working on eclipse.
 # Development Server
- MySQL 8.0.
+   MySQL 8.0.
  # Requirements:
- For building and running the application you need:
+   For building and running the application you need:
  # JDK 1.8
- Maven 3
+   Maven 3
  
