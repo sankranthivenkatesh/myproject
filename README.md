@@ -10,6 +10,6 @@ Java, JDBC, MySQL, Maven, JUnit, Log4J
    MySQL 8.0.
  # Requirements:
    For building and running the application you need:
- # JDK 1.8
+   JDK 1.8
    Maven 3
  
